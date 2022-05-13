@@ -1,7 +1,9 @@
 package clases;
 
+import java.util.ArrayList;
+
 public class Inventario {
 	
-	private ArrayList<CartasObjeto> items;
+	private ArrayList<CartaObjeto> objetos;
 
 }
